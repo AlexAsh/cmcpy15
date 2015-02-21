@@ -1,4 +1,1 @@
-# PythonWinter2015-initial
-Initial dummy repo.
-
-It's really dummy!
+CMC PYTHON 2015 SPRING
